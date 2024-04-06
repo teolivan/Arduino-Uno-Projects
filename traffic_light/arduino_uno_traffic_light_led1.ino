@@ -10,7 +10,7 @@ void setup()
 
 void loop()
 {
-  //greeb 
+  //green
   digitalWrite(7,HIGH); //5v turn on
   delay(1000);
   digitalWrite(7,LOW); //0v turn off
